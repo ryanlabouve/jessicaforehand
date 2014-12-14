@@ -1,0 +1,24 @@
+$c-primary: #F9F9F9;
+
+$f-body: 'PT Sans', sans-serif;
+$f-display: 'Economica', sans-serif;
+
+.display {
+  font-family: $f-display;
+}
+body {
+  font-family: $f-body;
+}
+
+.title {
+  font-family: $f-display;
+}
+.container-about {
+  background: $c-primary;
+  padding: 2em 0 3em 0;
+  margin-bottom: 1em;
+}
+
+.container-header {
+  background: $c-primary;
+}
