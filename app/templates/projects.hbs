@@ -1,2 +1,14 @@
-test
+<div class="row">
+  <div class="col-xs-12">
+    {{bs-carousel projects=this}}
+  </div>
+</div>
+
+<div class="row">
+  {{#each}}
+    <div class="col-sm-4 col-xs-12">
+      <img {{bind-attr src=thumbnail alt=name}} />
+    </div>
+  {{/each}}
+</div>
 {{outlet}}
