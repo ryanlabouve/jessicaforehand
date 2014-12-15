@@ -84,3 +84,47 @@ img {
 .container-header {
   margin-bottom: -30px;
 }
+
+.project-header {
+  position: relative;
+}
+.project-screen {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+
+  /*background-color: #2b2b2b;*/
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.90)), to(rgba(44, 44, 44, 0.90)));
+  background-image: -webkit-linear-gradient(top, rgba(43, 43, 43, 0.90), rgba(44, 44, 44, 0.90));
+  background-image: -moz-linear-gradient(top, rgba(43, 43, 43, 0.90), rgba(44, 44, 44, 0.90));
+  background-image: -o-linear-gradient(top, rgba(43, 43, 43, 0.90), rgba(44, 44, 44, 0.90));
+  background-image: -ms-linear-gradient(top, rgba(43, 43, 43, 0.90), rgba(44, 44, 44, 0.90));
+  background-image: linear-gradient(top, rgba(43, 43, 43, 0.90), rgba(44, 44, 44, 0.90));
+  filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,StartColorStr='#2b2b2b', EndColorStr='#2c2c2c');
+
+}
+
+.project-title {
+  font-family: $f-display;
+  color: rgba(255,255,255,0.9);
+  font-weight: bold;
+  font-size: 2.5em;
+  text-align: center;
+  line-height: 3;
+}
+
+.project-description {
+  color: rgba(255,255,255,0.9);
+  width: 60%;
+  margin: auto;
+  font-size: 1.1em;
+}
+
+.project-inner {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-40%);
+
+}

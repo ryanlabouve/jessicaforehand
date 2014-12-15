@@ -1,0 +1,15 @@
+<div class="project-header">
+  <div class="project-screen">
+    <div class="project-inner">
+      <div class="project-title">
+        {{name}}
+      </div>
+      <div class="project-description">
+        {{description}}
+      </div>
+    </div>
+  </div>
+  <img {{bind-attr src=cover alt=name}} />
+</div>
+
+{{outlet}}
