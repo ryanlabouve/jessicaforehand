@@ -12,13 +12,75 @@ body {
 
 .title {
   font-family: $f-display;
+  font-size: 23px;
 }
 .container-about {
-  background: $c-primary;
-  padding: 2em 0 3em 0;
   margin-bottom: 1em;
 }
 
-.container-header {
+.header-inner {
   background: $c-primary;
+  padding-left: 30px;
+  padding-right: 30px;
+  line-height: 60px;
+}
+
+.about-inner {
+  background: $c-primary;
+  padding-top: 2em;
+  padding-bottom: 3em;
+}
+
+img {
+  max-width: 100%;
+}
+
+.container {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.nav {
+  & > ul {
+    margin-bottom: 0;
+  }
+  li {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+.project {
+  margin-bottom: 30px;
+}
+
+.row-projects {
+  margin-top: 30px;
+  margin-bottom: -30px;
+}
+
+.nav {
+  a:link, a:visited {
+    color: rgba(0,0,0,0.4);
+    text-transform: uppercase;
+    /* font-weight: bold; */
+    letter-spacing: 0.1em;
+    display: inline-block;
+    padding-left: 0.8em;
+    padding-right: 0.8em;
+    line-height: 30px;
+    border-right: 1px solid rgba(0,0,0,0.1);
+    text-decoration: none;
+  }
+  a:hover, a:active {
+    color: rgba(0,0,0,0.8);
+  }
+}
+
+.no-sep {
+  border-right: 0 !important;
+}
+
+.container-header {
+  margin-bottom: -30px;
 }
