@@ -1,9 +1,30 @@
 import DS from 'ember-data';
 
-export default DS.Model.extend({
+var Item = DS.Model.extend({
   name: DS.attr('string'),
   cover: DS.attr('string'),
   description: DS.attr('string'),
 
   project: DS.attr('belongsTo')
 });
+
+Item.reopenClass({
+  FIXTURES: [
+    {
+        id: 1,
+        name: "Item 1",
+        cover: "http://placehold.it/1200x600",
+        description: "Vero amet modi dicta autem aut ut.",
+        project: 1
+    },
+    {
+        id: 2,
+        name: "Item 2",
+        cover: "http://placehold.it/1200x600",
+        description: "bobs",
+        project: 1
+    },
+  ]
+});
+
+export default Item;

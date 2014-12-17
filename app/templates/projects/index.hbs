@@ -8,7 +8,7 @@
   {{#each project in controller}}
 
     <div class="col-sm-4 col-xs-12 project">
-      {{#link-to 'projects.show' project}}
+      {{#link-to 'items.index' project}}
         <img {{bind-attr src=project.thumbnail alt=project.name}} />
       {{/link-to}}
     </div>

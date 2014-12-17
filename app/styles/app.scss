@@ -128,3 +128,12 @@ img {
   transform: translateY(-40%);
 
 }
+
+.title a:link, .title a:visited {
+  color: rgba(0,0,0,0.6) !important;
+  text-decoration: none;
+}
+
+.title a:hover, .title a:active {
+  color: rgba(0,0,0,0.9) !important;
+}

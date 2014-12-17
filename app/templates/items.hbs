@@ -1,1 +1,9 @@
 {{outlet}}
+
+{{#each}}
+  <div class="item">
+    <h2>{{name}}</h2>
+    <img {{bind-attr src=cover alt=name}} />
+    {{description}}
+  </div>
+{{/each}}
