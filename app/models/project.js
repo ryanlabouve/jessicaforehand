@@ -14,7 +14,7 @@ Project.reopenClass({
     {
         id: 1,
         name: "Project 1",
-        thumbnail: "http://placehold.it/400x300",
+        thumbnail: "http://placehold.it/800x600",
         cover: "http://placehold.it/1200x600",
         type: "photo",
         description: "Vero amet modi dicta autem aut ut. Occaecati iste deleniti dolores deleniti dolorem quia. Ut eos quas fuga ex libero et. Unde aspernatur maiores excepturi eum vero.",
@@ -22,7 +22,7 @@ Project.reopenClass({
     {
         id: 2,
         name: "Project 2",
-        thumbnail: "http://placehold.it/400x300",
+        thumbnail: "http://placehold.it/800x600",
         cover: "http://placehold.it/1200x600",
         type: "photo",
         description: "Amet enim minus eos ipsa veniam cum perspiciatis accusamus. Ab dicta dolor est. Blanditiis nostrum fugiat iure dolores qui ad. Et sit maiores at dignissimos.",
@@ -30,7 +30,7 @@ Project.reopenClass({
     {
         id: 3,
         name: "Project 3",
-        thumbnail: "http://placehold.it/400x300",
+        thumbnail: "http://placehold.it/800x600",
         cover: "http://placehold.it/1200x600",
         type: "photo",
         description: "Amet enim minus eos ipsa veniam cum perspiciatis accusamus. Ab dicta dolor est. Blanditiis nostrum fugiat iure dolores qui ad. Et sit maiores at dignissimos.",
@@ -38,7 +38,7 @@ Project.reopenClass({
     {
         id: 4,
         name: "Project 4",
-        thumbnail: "http://placehold.it/400x300",
+        thumbnail: "http://placehold.it/800x600",
         cover: "http://placehold.it/1200x600",
         type: "photo",
         description: "Amet enim minus eos ipsa veniam cum perspiciatis accusamus. Ab dicta dolor est. Blanditiis nostrum fugiat iure dolores qui ad. Et sit maiores at dignissimos.",
@@ -46,7 +46,7 @@ Project.reopenClass({
     {
         id: 5,
         name: "Project 5",
-        thumbnail: "http://placehold.it/400x300",
+        thumbnail: "http://placehold.it/800x600",
         cover: "http://placehold.it/1200x600",
         type: "photo",
         description: "Amet enim minus eos ipsa veniam cum perspiciatis accusamus. Ab dicta dolor est. Blanditiis nostrum fugiat iure dolores qui ad. Et sit maiores at dignissimos.",
@@ -54,7 +54,7 @@ Project.reopenClass({
     {
         id: 6,
         name: "Project 6",
-        thumbnail: "http://placehold.it/400x300",
+        thumbnail: "http://placehold.it/800x600",
         cover: "http://placehold.it/1200x600",
         type: "photo",
         description: "Amet enim minus eos ipsa veniam cum perspiciatis accusamus. Ab dicta dolor est. Blanditiis nostrum fugiat iure dolores qui ad. Et sit maiores at dignissimos.",
