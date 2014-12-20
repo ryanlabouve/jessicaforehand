@@ -52,7 +52,7 @@ module.exports = function(environment) {
 
   if (environment === 'production') {
     ENV.location = 'hash';
-    ENV.baseURL '/jessicaforehand',
+    ENV.baseURL = '/jessicaforehand';
   }
 
   return ENV;
