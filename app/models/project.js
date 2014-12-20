@@ -13,11 +13,11 @@ Project.reopenClass({
   FIXTURES: [
     {
         id: 1,
-        name: "Project 1",
-        thumbnail: "http://placehold.it/800x600",
-        cover: "http://placehold.it/1200x600",
+        name: "Ghosts",
+        thumbnail: "img/art-ghost/ghost-thumbnail.jpg",
+        cover: "img/art-ghost/ghost-cover.jpg",
         type: "photo",
-        description: "Vero amet modi dicta autem aut ut. Occaecati iste deleniti dolores deleniti dolorem quia. Ut eos quas fuga ex libero et. Unde aspernatur maiores excepturi eum vero.",
+        description: "",
     },
     {
         id: 2,

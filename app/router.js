@@ -11,6 +11,7 @@ Router.map(function() {
       this.resource('items', function() { });
     });
   });
+  this.route('projects/potraits');
 });
 
 export default Router;

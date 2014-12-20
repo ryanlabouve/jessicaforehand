@@ -12,9 +12,9 @@ Item.reopenClass({
   FIXTURES: [
     {
         id: 1,
-        name: "Item 1",
-        cover: "http://placehold.it/1200x600",
-        description: "Vero amet modi dicta autem aut ut.",
+        name: "",
+        cover: "img/art-ghost/ForehandJessica-6.jpg",
+        description: "",
         project: 1
     },
     {
