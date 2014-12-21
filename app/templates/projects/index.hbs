@@ -9,7 +9,16 @@
 
     <div class="col-sm-4 col-xs-12 project">
       {{#link-to 'items.index' project}}
+      <div class="project-thumbnail">
+        <div class="project-screen">
+          <div class="project-inner">
+            <div class="project-title">
+              {{project.name}}
+            </div>
+          </div>
+        </div>
         <img {{bind-attr src=project.thumbnail alt=project.name}} />
+      </div>
       {{/link-to}}
     </div>
   {{/each}}

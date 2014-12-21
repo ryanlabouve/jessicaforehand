@@ -137,3 +137,23 @@ img {
 .title a:hover, .title a:active {
   color: rgba(0,0,0,0.9) !important;
 }
+
+.project-thumbnail {
+
+  .project-title {
+    font-size: 1.9rem;
+    line-height: 1.1;
+  }
+
+  position: relative;
+  .project-screen {
+    transition: opacity .4s ease-in;
+
+    opacity: 0.8;
+
+  }
+
+  &:hover .project-screen {
+    opacity: 0;
+  }
+}
