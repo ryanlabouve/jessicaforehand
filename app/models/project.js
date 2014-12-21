@@ -46,8 +46,8 @@ Project.reopenClass({
     {
         id: 5,
         name: "Night Photos",
-        thumbnail: "img/art-night photos/nightphoto2-thumbnail.jpg",
-        cover: "img/art-night photos/nightphoto2-cover.jpg",
+        thumbnail: "img/art-night-photos/nightphoto2-thumbnail.jpg",
+        cover: "img/art-night-photos/nightphoto2-cover.jpg",
         type: "photo",
         description: "",
     },
@@ -62,8 +62,8 @@ Project.reopenClass({
     {
         id: 7,
         name: "You Can Never Go Home Again",
-        thumbnail: "img/art-you-can-never-go home-again/swing-thumbnail.jpg",
-        cover: "img/art-you-can-never-go home-again/swing-cover.jpg",
+        thumbnail: "img/art-you-can-never-go-home-again/swing-thumbnail.jpg",
+        cover: "img/art-you-can-never-go-home-again/swing-cover.jpg",
         type: "photo",
         description: "",
     },
