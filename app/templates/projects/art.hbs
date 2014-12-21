@@ -1,0 +1,7 @@
+<h2 class="text-center">Art</h2>
+{{#each project in controller}}
+  <div class="project">
+    <img {{bind-attr src=project.cover alt=project.name}} />
+  </div>
+{{/each}}
+{{outlet}}

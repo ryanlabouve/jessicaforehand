@@ -16,7 +16,7 @@ Project.reopenClass({
         name: "Ghosts",
         thumbnail: "img/art-ghost/ghost-thumbnail.jpg",
         cover: "img/art-ghost/ghost-cover.jpg",
-        type: "photo",
+        type: "art",
         description: "",
     },
     {
@@ -24,7 +24,7 @@ Project.reopenClass({
         name: "Loveworks Leadership Inc.",
         thumbnail: "img/event-loveworks-leadership-inc/loveworks9-thumbnail.jpg",
         cover: "img/event-loveworks-leadership-inc/loveworks9-cover.jpg",
-        type: "photo",
+        type: "events",
         description: "",
     },
     {
@@ -32,7 +32,7 @@ Project.reopenClass({
         name: "Ballroom",
         thumbnail: "img/event-ballroom/Ballroom1-thumbnail.jpg",
         cover: "img/event-ballroom/Ballroom1-cover.jpg",
-        type: "photo",
+        type: "events",
         description: "",
     },
     {
@@ -40,7 +40,7 @@ Project.reopenClass({
         name: "Wedding",
         thumbnail: "img/event-wedding/wedding12-thumbnail.jpg",
         cover: "img/event-wedding/wedding12-cover.jpg",
-        type: "photo",
+        type: "events",
         description: "",
     },
     {
@@ -48,7 +48,7 @@ Project.reopenClass({
         name: "Night Photos",
         thumbnail: "img/art-night-photos/nightphoto2-thumbnail.jpg",
         cover: "img/art-night-photos/nightphoto2-cover.jpg",
-        type: "photo",
+        type: "art",
         description: "",
     },
     {
@@ -56,7 +56,7 @@ Project.reopenClass({
         name: "Churches",
         thumbnail: "img/art-churches/st-johns-thumbnail.jpg",
         cover: "img/art-churches/st-johns-cover.jpg",
-        type: "photo",
+        type: "art",
         description: "",
     },
     {
@@ -64,7 +64,7 @@ Project.reopenClass({
         name: "You Can Never Go Home Again",
         thumbnail: "img/art-you-can-never-go-home-again/swing-thumbnail.jpg",
         cover: "img/art-you-can-never-go-home-again/swing-cover.jpg",
-        type: "photo",
+        type: "art",
         description: "",
     },
 ]

@@ -10,8 +10,11 @@ Router.map(function() {
     this.route('show', { path: ':project_id' }, function() {
       this.resource('items', function() { });
     });
+    this.route('portraits');
+    this.route('events');
+    this.route('art');
   });
-  this.route('projects/potraits');
+
 });
 
 export default Router;
