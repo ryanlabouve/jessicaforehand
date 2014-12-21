@@ -1,60 +1,60 @@
-/* line 6, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-ijKnWLRW.tmp/app/styles/app.scss */
+/* line 6, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-wLwYEvM3.tmp/app/styles/app.scss */
 .display {
   font-family: 'Economica', sans-serif; }
 
-/* line 9, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-ijKnWLRW.tmp/app/styles/app.scss */
+/* line 9, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-wLwYEvM3.tmp/app/styles/app.scss */
 body {
   font-family: 'PT Sans', sans-serif; }
 
-/* line 13, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-ijKnWLRW.tmp/app/styles/app.scss */
+/* line 13, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-wLwYEvM3.tmp/app/styles/app.scss */
 .title {
   font-family: 'Economica', sans-serif;
   font-size: 23px; }
 
-/* line 17, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-ijKnWLRW.tmp/app/styles/app.scss */
+/* line 17, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-wLwYEvM3.tmp/app/styles/app.scss */
 .container-about {
   margin-bottom: 1em; }
 
-/* line 21, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-ijKnWLRW.tmp/app/styles/app.scss */
+/* line 21, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-wLwYEvM3.tmp/app/styles/app.scss */
 .header-inner {
   background: #F9F9F9;
   padding-left: 30px;
   padding-right: 30px;
   line-height: 60px; }
 
-/* line 28, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-ijKnWLRW.tmp/app/styles/app.scss */
+/* line 28, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-wLwYEvM3.tmp/app/styles/app.scss */
 .about-inner {
   background: #F9F9F9;
   padding-top: 2em;
   padding-bottom: 3em; }
 
-/* line 34, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-ijKnWLRW.tmp/app/styles/app.scss */
+/* line 34, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-wLwYEvM3.tmp/app/styles/app.scss */
 img {
   max-width: 100%; }
 
-/* line 38, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-ijKnWLRW.tmp/app/styles/app.scss */
+/* line 38, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-wLwYEvM3.tmp/app/styles/app.scss */
 .container {
   margin-top: 30px;
   margin-bottom: 30px; }
 
-/* line 44, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-ijKnWLRW.tmp/app/styles/app.scss */
+/* line 44, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-wLwYEvM3.tmp/app/styles/app.scss */
 .nav > ul {
   margin-bottom: 0; }
-/* line 47, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-ijKnWLRW.tmp/app/styles/app.scss */
+/* line 47, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-wLwYEvM3.tmp/app/styles/app.scss */
 .nav li {
   padding-left: 0;
   padding-right: 0; }
 
-/* line 53, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-ijKnWLRW.tmp/app/styles/app.scss */
+/* line 53, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-wLwYEvM3.tmp/app/styles/app.scss */
 .project {
   margin-bottom: 30px; }
 
-/* line 57, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-ijKnWLRW.tmp/app/styles/app.scss */
+/* line 57, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-wLwYEvM3.tmp/app/styles/app.scss */
 .row-projects {
   margin-top: 30px;
   margin-bottom: -30px; }
 
-/* line 63, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-ijKnWLRW.tmp/app/styles/app.scss */
+/* line 63, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-wLwYEvM3.tmp/app/styles/app.scss */
 .nav a:link, .nav a:visited {
   color: rgba(0, 0, 0, 0.4);
   text-transform: uppercase;
@@ -66,23 +66,23 @@ img {
   line-height: 30px;
   border-right: 1px solid rgba(0, 0, 0, 0.1);
   text-decoration: none; }
-/* line 75, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-ijKnWLRW.tmp/app/styles/app.scss */
+/* line 75, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-wLwYEvM3.tmp/app/styles/app.scss */
 .nav a:hover, .nav a:active {
   color: rgba(0, 0, 0, 0.8); }
 
-/* line 80, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-ijKnWLRW.tmp/app/styles/app.scss */
+/* line 80, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-wLwYEvM3.tmp/app/styles/app.scss */
 .no-sep {
   border-right: 0 !important; }
 
-/* line 84, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-ijKnWLRW.tmp/app/styles/app.scss */
+/* line 84, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-wLwYEvM3.tmp/app/styles/app.scss */
 .container-header {
   margin-bottom: -30px; }
 
-/* line 88, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-ijKnWLRW.tmp/app/styles/app.scss */
+/* line 88, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-wLwYEvM3.tmp/app/styles/app.scss */
 .project-header {
   position: relative; }
 
-/* line 91, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-ijKnWLRW.tmp/app/styles/app.scss */
+/* line 91, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-wLwYEvM3.tmp/app/styles/app.scss */
 .project-screen {
   position: absolute;
   top: 0;
@@ -98,7 +98,7 @@ img {
   background-image: linear-gradient(top, rgba(43, 43, 43, 0.9), rgba(44, 44, 44, 0.9));
   filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,StartColorStr='#2b2b2b', EndColorStr='#2c2c2c'); }
 
-/* line 109, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-ijKnWLRW.tmp/app/styles/app.scss */
+/* line 109, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-wLwYEvM3.tmp/app/styles/app.scss */
 .project-title {
   font-family: 'Economica', sans-serif;
   color: rgba(255, 255, 255, 0.9);
@@ -107,26 +107,26 @@ img {
   text-align: center;
   line-height: 3; }
 
-/* line 118, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-ijKnWLRW.tmp/app/styles/app.scss */
+/* line 118, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-wLwYEvM3.tmp/app/styles/app.scss */
 .project-description {
   color: rgba(255, 255, 255, 0.9);
   width: 60%;
   margin: auto;
   font-size: 1.1em; }
 
-/* line 125, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-ijKnWLRW.tmp/app/styles/app.scss */
+/* line 125, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-wLwYEvM3.tmp/app/styles/app.scss */
 .project-inner {
   position: absolute;
   top: 50%;
   transform: translateY(-40%);
   width: 100%; }
 
-/* line 132, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-ijKnWLRW.tmp/app/styles/app.scss */
+/* line 132, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-wLwYEvM3.tmp/app/styles/app.scss */
 .title a:link, .title a:visited {
   color: rgba(0, 0, 0, 0.6) !important;
   text-decoration: none; }
 
-/* line 137, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-ijKnWLRW.tmp/app/styles/app.scss */
+/* line 137, /Users/luckyrye/Desktop/jessicaforehand/tmp/tree_merger-tmp_dest_dir-wLwYEvM3.tmp/app/styles/app.scss */
 .title a:hover, .title a:active {
   color: rgba(0, 0, 0, 0.9) !important; }
 
