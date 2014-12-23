@@ -1,7 +1,9 @@
 <h2 class="text-center">Events</h2>
 {{#each project in controller}}
+  {{#link-to "items" project}}
   <div class="project">
     <img {{bind-attr src=project.cover alt=project.name}} />
   </div>
+  {{/link-to}}
 {{/each}}
 {{outlet}}
