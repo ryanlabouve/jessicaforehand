@@ -67,6 +67,30 @@ Project.reopenClass({
         type: "art",
         description: "",
     },
+    {
+        id: 8,
+        name: "Portrait Family",
+        thumbnail: "img/portrait-family/familyphoto3-thumbnail.jpg",
+        cover: "img/portrait-family/familyphoto3-cover.jpg",
+        type: "portrait",
+        description: "",
+    },
+    {
+        id: 9,
+        name: "Portrait Pets",
+        thumbnail: "img/portrait-pets/pet2-thumbnail.jpg",
+        cover: "img/portrait-pets/pet2-cover.jpg",
+        type: "portrait",
+        description: "",
+    },
+    {
+        id: 10,
+        name: "Portraits",
+        thumbnail: "img/portraits/portrait4-thumbnail.jpg",
+        cover: "img/portraits/portrait4-cover.jpg",
+        type: "portrait",
+        description: "",
+    },
 ]
 });
 
