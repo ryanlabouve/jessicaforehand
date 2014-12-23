@@ -338,6 +338,161 @@ Item.reopenClass({
         description: "",
         project: 7
     },
+    {
+        id: 48,
+        name: "",
+        cover: "img/portrait-family/familyphoto1-item.jpg",
+        description: "",
+        project: 8
+    },
+    {
+        id: 49,
+        name: "",
+        cover: "img/portrait-family/familyphoto2-item.jpg",
+        description: "",
+        project: 8
+    },
+
+    {
+        id: 50,
+        name: "",
+        cover: "img/portrait-family/familyphoto3-item.jpg",
+        description: "",
+        project: 8
+    },
+    {
+        id: 51,
+        name: "",
+        cover: "img/portrait-family/familyphoto4-item.jpg",
+        description: "",
+        project: 8
+    },
+    {
+        id: 52,
+        name: "",
+        cover: "img/portrait-family/familyphoto5-item.jpg",
+        description: "",
+        project: 8
+    },
+    {
+        id: 53,
+        name: "",
+        cover: "img/portrait-family/familyphoto6-item.jpg",
+        description: "",
+        project: 8
+    },
+    {
+        id: 54,
+        name: "",
+        cover: "img/portrait-pets/pet1-item.jpg",
+        description: "",
+        project: 9
+    },
+    {
+        id: 55,
+        name: "",
+        cover: "img/portrait-pets/pet2-item.jpg",
+        description: "",
+        project: 9
+    },
+    {
+        id: 56,
+        name: "",
+        cover: "img/portrait-pets/pet3-item.jpg",
+        description: "",
+        project: 9
+    },
+    {
+        id: 57,
+        name: "",
+        cover: "img/portrait-pets/pet4-item.jpg",
+        description: "",
+        project: 9
+    },
+    {
+        id: 58,
+        name: "",
+        cover: "img/portrait-pets/pet5-item.jpg",
+        description: "",
+        project: 9
+    },
+    {
+        id: 59,
+        name: "",
+        cover: "img/portrait-pets/pet6-item.jpg",
+        description: "",
+        project: 9
+    },
+    {
+        id: 60,
+        name: "",
+        cover: "img/portraits/portrait1-item.jpg",
+        description: "",
+        project: 10
+    },
+    {
+        id: 61,
+        name: "",
+        cover: "img/portraits/portrait2-item.jpg",
+        description: "",
+        project: 10
+    },
+    {
+        id: 62,
+        name: "",
+        cover: "img/portraits/portrait3-item.jpg",
+        description: "",
+        project: 10
+    },
+    {
+        id: 63,
+        name: "",
+        cover: "img/portraits/portrait1-item.jpg",
+        description: "",
+        project: 10
+    },
+    {
+        id: 64,
+        name: "",
+        cover: "img/portraits/portrait4-item.jpg",
+        description: "",
+        project: 10
+    },
+    {
+        id: 65,
+        name: "",
+        cover: "img/portraits/portrait5-item.jpg",
+        description: "",
+        project: 10
+    },
+    {
+        id: 66,
+        name: "",
+        cover: "img/portraits/portrait6-item.jpg",
+        description: "",
+        project: 10
+    },
+    {
+        id: 67,
+        name: "",
+        cover: "img/portraits/portrait7-item.jpg",
+        description: "",
+        project: 10
+    },
+    {
+        id: 68,
+        name: "",
+        cover: "img/portraits/portrait8-item.jpg",
+        description: "",
+        project: 10
+    },
+    {
+        id: 69,
+        name: "",
+        cover: "img/portraits/portrait9-item.jpg",
+        description: "",
+        project: 10
+    },
   ]
 });
 
